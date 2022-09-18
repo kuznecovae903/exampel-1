@@ -1,0 +1,15 @@
+C:\Users\ккк\Desktop\Документы Катя\Новая папка\C#\Lesson 1\Exampel 1\bin\Debug\net6.0\Exampel 1.exe
+C:\Users\ккк\Desktop\Документы Катя\Новая папка\C#\Lesson 1\Exampel 1\bin\Debug\net6.0\Exampel 1.deps.json
+C:\Users\ккк\Desktop\Документы Катя\Новая папка\C#\Lesson 1\Exampel 1\bin\Debug\net6.0\Exampel 1.runtimeconfig.json
+C:\Users\ккк\Desktop\Документы Катя\Новая папка\C#\Lesson 1\Exampel 1\bin\Debug\net6.0\Exampel 1.dll
+C:\Users\ккк\Desktop\Документы Катя\Новая папка\C#\Lesson 1\Exampel 1\bin\Debug\net6.0\Exampel 1.pdb
+C:\Users\ккк\Desktop\Документы Катя\Новая папка\C#\Lesson 1\Exampel 1\obj\Debug\net6.0\Exampel 1.csproj.AssemblyReference.cache
+C:\Users\ккк\Desktop\Документы Катя\Новая папка\C#\Lesson 1\Exampel 1\obj\Debug\net6.0\Exampel 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ккк\Desktop\Документы Катя\Новая папка\C#\Lesson 1\Exampel 1\obj\Debug\net6.0\Exampel 1.AssemblyInfoInputs.cache
+C:\Users\ккк\Desktop\Документы Катя\Новая папка\C#\Lesson 1\Exampel 1\obj\Debug\net6.0\Exampel 1.AssemblyInfo.cs
+C:\Users\ккк\Desktop\Документы Катя\Новая папка\C#\Lesson 1\Exampel 1\obj\Debug\net6.0\Exampel 1.csproj.CoreCompileInputs.cache
+C:\Users\ккк\Desktop\Документы Катя\Новая папка\C#\Lesson 1\Exampel 1\obj\Debug\net6.0\Exampel 1.dll
+C:\Users\ккк\Desktop\Документы Катя\Новая папка\C#\Lesson 1\Exampel 1\obj\Debug\net6.0\refint\Exampel 1.dll
+C:\Users\ккк\Desktop\Документы Катя\Новая папка\C#\Lesson 1\Exampel 1\obj\Debug\net6.0\Exampel 1.pdb
+C:\Users\ккк\Desktop\Документы Катя\Новая папка\C#\Lesson 1\Exampel 1\obj\Debug\net6.0\Exampel 1.genruntimeconfig.cache
+C:\Users\ккк\Desktop\Документы Катя\Новая папка\C#\Lesson 1\Exampel 1\obj\Debug\net6.0\ref\Exampel 1.dll
